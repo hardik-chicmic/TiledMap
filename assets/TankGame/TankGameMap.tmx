@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="BlackBackground.tsx"/>
+ <tileset firstgid="621" source="Brick.tsx"/>
+ <tileset firstgid="774" source="Grass.tsx"/>
+ <layer id="1" name="Background" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENAAAMA6Grf9MzsSckrJqqqm8PCzUCWQ==
+  </data>
+ </layer>
+ <layer id="2" name="Brick" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztlH0KwjAMxUvu66o7wObHAdQjbEfYLmiCFkqJ7SvJX+IPCkuWl6yQvRD+tBgohEjtnHe/meMzkEO/Be334PgJ5DStBtpv4XgFcppWA+2Hgmo3rtmpnUOxaDVkV46O/VBkVy7GuQd673tO2n+504nP2DmjptfmJdL+y52ufG6dc636X8fqu2Wtt0+iem+fRPWePin/QfoX4uf5W62nT07F+zwuaz198k71GOUFoNJCOA==
+  </data>
+ </layer>
+ <layer id="3" name="Grass" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjGTAxszAwA7EHMwD7ZJRMNTBaFoaBaMAAQAFBQA9
+  </data>
+ </layer>
+</map>
